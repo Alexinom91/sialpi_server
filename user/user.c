@@ -47,6 +47,7 @@ int main()
     else
     {
         printf("It wasnt sucessful %d, %d\n", errno, strerror(errno));
+        //topperia missile
     }
     return 0;
 }
